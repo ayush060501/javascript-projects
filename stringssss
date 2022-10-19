@@ -1,0 +1,5 @@
+let str = "Apple, Banana, Kiwi";
+let part = str.slice(-12, -6);'
+
+let str = "Apple, Banana, Kiwi";
+let part = str.slice(-12, -6);
